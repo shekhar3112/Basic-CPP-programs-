@@ -7,9 +7,9 @@ int sum(int x, int y); // Function Definition
 int main()
 {
     int num1, num2;
-    cout << "num1" << endl;
+    cout << "Enter num1" << endl;
     cin >> num1;
-    cout << "num2" << endl;
+    cout << "Enter num2" << endl;
     cin >> num2;
     cout << "Sum is " << sum(num1, num2); // Function Calling
     return 0;
