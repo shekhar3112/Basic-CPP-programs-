@@ -6,10 +6,10 @@ int main(){
             code body; 
         }
     */
-    // for (int i = 0; i <= 45; i++)
-    // {
-    //     cout<<i<<endl; 
-    // }
+    for (int i = 0; i <= 45; i++)
+    {
+        cout<<i<<endl; 
+    }
     /*
         while(condition){
             code body; 
