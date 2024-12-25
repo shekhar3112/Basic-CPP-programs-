@@ -8,7 +8,7 @@ void HelloChild(){
 
 int main(){
     cout<<"hello World\n"<<endl;
-    cout<<"I'm a C++ Program"<<endl;
+    cout<<"I'm a C++ Programmer"<<endl;
 
     HelloChild();
     return 0; 
